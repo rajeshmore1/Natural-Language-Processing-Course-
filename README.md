@@ -1,2 +1,2 @@
-# Advanced-Natural-Language-Processing-Course
+# Advance-Natural-Language-Processing-Course
 Author: Rajesh More
